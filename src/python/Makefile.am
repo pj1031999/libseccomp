@@ -16,7 +16,7 @@
 # along with this library; if not, see <http://www.gnu.org/licenses>.
 #
 
-PYTHON = /usr/bin/env python
+PYTHON = /usr/bin/env python3
 
 PY_DISTUTILS = \
 	VERSION_RELEASE="@PACKAGE_VERSION@" \
